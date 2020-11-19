@@ -6,5 +6,5 @@
 
 # :green_circle: Super cool Source : -maybe,boop beep!-
 - <a href="https://codepen.io/Gthibaud/pen/pyeNKj">Codepen</a>
-- Last Update : None :(
+- Last Update : None. :(
 
