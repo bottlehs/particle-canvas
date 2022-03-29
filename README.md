@@ -1,10 +1,10 @@
-# Particle Texts!
+## Particle Canvas
 
-<img src="https://alfred.is-inside.me/t5NfC2Ef.png">
+This is a simplified CSS project. In order to ensure that the **CSS** codes are stable, **HTML** codes are included. You can use this design/code within the project in your own projects/websites without any license issues.
 
-<hr></hr>
+## Other
 
-# :green_circle: Super cool Source : -maybe,boop beep!-
-- <a href="https://codepen.io/Gthibaud/pen/pyeNKj">Codepen</a>
-- Last Update : Update README. :snowflake:
+If you want to browse my **other projects** these links may help you, thanks.
 
+- [Github](https://github.com/alfredsaveron)
+- [Twitter](https://twitter.com/alfredsaveron)
